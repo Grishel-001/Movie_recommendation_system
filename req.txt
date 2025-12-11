@@ -1,0 +1,11 @@
+pandas 
+numpy 
+ast
+
+sklearn.feature_extraction.text import CountVectorizer
+nltk.stem.porter import PorterStemmer
+sklearn.metrics.pairwise import cosine_similarity
+pickle
+streamlit 
+requests
+requests.exceptions import ConnectionError, Timeout
